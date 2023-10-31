@@ -48,6 +48,8 @@
 
 [move] : 프로젝트 파일 및 코드 이동
 
+[foldering] : 폴더 구조 변경
+
 - Ex) [feat] : 1주차 2739번_HelloWorld_백준.py
 
 &nbsp;
