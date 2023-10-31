@@ -55,26 +55,31 @@
 
 ## 📍Study log
 
-|  |제민우|김정경|
-|------|---|---|
-|GitHub|[MinwooJe](https://github.com/MinwooJe)|[Jungkyung]()|
-|Language|<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">|<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">|
-|Example|4문제 ☑️|6문제 ✅|
-|Week1|  |  |
-|Week2|  |  |
-|Week3|  |  |
-|Week4|  |  |  
+|  |김정경|정욱|제민우|
+|------|---|---|---|
+|GitHub|[Jungkyung]()|[Wooks]()|[MinwooJe](https://github.com/MinwooJe)|
+|Language|<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">|<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">|<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|Example|8문제 ✅|6문제 ✅|4문제 ☑️|
+|Week1|  |  |  |
+|Week2|  |  |  |
+|Week3|  |  |  |
+|Week4|  |  |  | 
 
 &nbsp;
 &nbsp;
 
 ## EX) 📍n주차 (11/? ~ 11/?)
-- 민우
+- 정경
     - [사칙연산](https://www.acmicpc.net/problem/10869)
     - [??!](https://www.acmicpc.net/problem/10926)
     - [1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108)
 
-- 정경
+- 욱
+    - [사칙연산](https://www.acmicpc.net/problem/10869)
+    - [??!](https://www.acmicpc.net/problem/10926)
+    - [1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108)
+ 
+- 민우
     - [사칙연산](https://www.acmicpc.net/problem/10869)
     - [??!](https://www.acmicpc.net/problem/10926)
     - [1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108)
